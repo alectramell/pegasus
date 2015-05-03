@@ -1,5 +1,6 @@
 # PEGASUS
-
+<br />
+<a href="http://pegasus.zohosites.com/" target="_new">http://pegasus.zohosites.com</a>
 <br />
 <b>Installation (via Ubuntu Terminal):</b>
 <br />
